@@ -7,10 +7,10 @@
 There are a lot of things I love about `patchwork`: 
 - The package automatically aligns plot dimensions, eliminating the need to painstakingly define plot coordinates. 
 - The plot layout options are very versatile, allowing you to easily control plot arrangement, size, orientation, and add blank space. 
-- The package allows for adding additional ggplot arguments (e.g., to unify themes across all plots), and annotations, including auto-tagging capabilities for identifying subplots in text. 
+- The package allows for adding additional ggplot arguments (e.g., to unify themes across all plots), and annotations, including auto-tagging capabilities for subplots. 
 - `patchwork` can integrate components from other plotting packages like `cowplot` and `gridExtra`. 
 
-The main drawback to `patchwork` is that all plots must be ggplot objects. Regardless, I would absolutely recommend this package to anyone looking for a simple but powerful way to combine multiple plots into a single multipaneled figure.
+The main drawback to `patchwork` is that all plots must be ggplot objects. Regardless, *I would absolutely recommend this package* to anyone looking for a simple but powerful way to combine multiple plots into a single multipaneled figure.
 
 
 ### Location
