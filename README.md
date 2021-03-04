@@ -1,3 +1,3 @@
-# Exploring R packages - `patchwork`
+# Assignment 7 - Exploring R packages
 
 ## `patchwork`
