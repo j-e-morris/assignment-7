@@ -1,9 +1,11 @@
 # Assignment 7 - Exploring R packages
 
-## `patchwork`
+### `patchwork`
+
+`patchwork` makes it simple to create complex plot layouts. 
 
 
-### LOCATION
+### Location
 Download from **CRAN**: https://cloud.r-project.org/web/packages/patchwork/index.html 
 ``` {r}
 install.packages('patchwork')
@@ -14,7 +16,8 @@ Development version from **GitHub**: https://github.com/thomasp85/patchwork
 devtools::install_github("thomasp85/patchwork")
 ```
 
-### VIGNETTES
+
+### Vignettes
 
 [Reference manual](https://cran.r-project.org/web/packages/patchwork/patchwork.pdf):
 Describes package information and details main functions. 
@@ -34,9 +37,7 @@ Tutorial for adding titles, subtitles and captions, tagging, and styling the pat
 [Multipage Alignment](https://patchwork.data-imaginist.com/articles/guides/multipage.html):
 Tutorial for aligning plots across pages, especially useful for designing slideshows.
 
-### APPLICATIONS
+
+### Applications
 [Website](https://patchwork.data-imaginist.com/index.html):
 Download and installation instructions, vignettes, and helpful references.
-
-### REVIEW
-`patchwork` makes it simple to create complex plot layouts. 
