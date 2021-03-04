@@ -17,7 +17,7 @@ devtools::install_github("thomasp85/patchwork")
 ### VIGNETTES
 
 [Reference manual](https://cran.r-project.org/web/packages/patchwork/patchwork.pdf):
-Provides 
+Describes package information and details main functions. 
 
 [Getting Started](https://cloud.r-project.org/web/packages/patchwork/vignettes/patchwork.html):
 Tutorial for working through the basics of using `patchwork`. Includes example plots, basic use, controlling layout, stacking and packing plots, and annotating the composition.
