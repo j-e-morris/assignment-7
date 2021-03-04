@@ -4,7 +4,8 @@
 
 
 ### Location
-CRAN: 
+CRAN: https://cloud.r-project.org/web/packages/patchwork/index.html 
+`install.packages('patchwork')`
 Development version from GitHub: https://github.com/thomasp85/patchwork
 ```{r}
 # install.packages("devtools")
